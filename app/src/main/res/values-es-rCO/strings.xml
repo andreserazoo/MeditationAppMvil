@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meditation.app</string>
+    <string name="search">Buscar</string>
+    <string name="alinea_tu_cuerpo_txt">Alinea tu cuerpo</string>
+    <string name="ab1_inversions_txt">Inversiones</string>
+</resources>
